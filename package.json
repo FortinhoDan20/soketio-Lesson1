@@ -1,0 +1,18 @@
+{
+  "name": "socketLearn",
+  "version": "1.0.0",
+  "description": "Socket learn",
+  "main": "index.js",
+  "author": "me",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9",
+    "socket.io": "^4.1.2"
+  }
+}
